@@ -36,7 +36,7 @@ Airlines:
 * SIBERIA AIRLINES
 
 
-Please pass the lugagge belt area and go directly to the main arrival hall. Look for **Go Natural** signage (just infront the exit doors). You will find a line of drivers. Look for your driver who will have a sign with **"Investigator Meeting"**.
+Please pass the lugagge belt area and go directly to the main arrival hall. Look for **Go Natural** signage (just in front the exit doors). You will find a line of drivers. Look for your driver who will have a sign with **"Investigator Meeting"**.
 
 <img src = "https://restauracionnews.com/wp-content/uploads/2019/04/GoNatural.jpg" width="100%">
 
@@ -52,7 +52,7 @@ border-radius: 5px;
 </style>
 
 <p class="comment">
-If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+If you can't find your driver you can contact Oliver: +34 633 388 839 </p>
 
 
 ## **T2 B**
@@ -80,7 +80,7 @@ border-radius: 5px;
 </style>
 
 <p class="comment">
-If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+If you can't find your driver you can contact Oliver: +34 633 388 839  </p>
 
 
 ## **T2 C**
@@ -89,7 +89,7 @@ Airlines:
 
 * EASYJET AIRLINE
 
-Please pass the lugagge belt area and go directly to the main arrival hall. Your driver will be waiting for you just outside the door with a sign of **"Investigator Meeting"**. If you don't see your driver,  find the cafeteria **B by fresh and realy** and wait there for him/her.
+Please pass the lugagge belt area and go directly to the main arrival hall. Your driver will be waiting for you just outside the door with a sign of **"Investigator Meeting"**. If you don't see your driver,  find the cafeteria **B by fresh & ready** and wait there for him/her.
 
 <img src = "http://www.aena.es/csee/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1445437479764&ssbinary=true" width="100%">
 
@@ -105,7 +105,7 @@ border-radius: 5px;
 </style>
 
 <p class="comment">
-If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+If you can't find your driver you can contact Oliver: +34 633 388 839  </p>
 
 
 
