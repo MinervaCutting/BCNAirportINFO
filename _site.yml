@@ -1,0 +1,9 @@
+name: "my-website"
+navbar:
+  title: "Investigator Meeting"
+  left:
+    - text: "✈"
+      href: index.html
+
+   
+   

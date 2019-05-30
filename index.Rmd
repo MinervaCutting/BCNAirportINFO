@@ -1,0 +1,111 @@
+---
+title: <br><br>El Prat Airport-Arrivals information
+author: "BCN Airport"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+    thumbnails: false
+    lightbox: true
+    gallery: true
+    css: form.css
+---
+
+
+```{r echo=FALSE, message=FALSE,warning=FALSE}
+library(readxl)
+library(shiny)
+library(dplyr)
+library(knitr)
+```
+
+## **T1**
+
+Airlines: 
+
+* EL AL ISRAEL AIRLINES
+* VUELING
+* IBERIA
+* LUFTHANSA
+* SWISS INTL AIRLINES
+* AIR FRANCE
+* AEROFLOT RUSSIAN AIR
+* KLM ROYAL DUTCH AIRLINES
+* LOT POLISH AIRLINES
+* BRITISH AIRWAYS
+* SIBERIA AIRLINES
+
+
+Please pass the lugagge belt area and go directly to the main arrival hall. Look for **Go Natural** signage (just infront the exit doors). You will find a line of drivers. Look for your driver who will have a sign with **"Investigator Meeting"**.
+
+<img src = "https://restauracionnews.com/wp-content/uploads/2019/04/GoNatural.jpg" width="100%">
+
+<img src = "t1.png" width="100%">
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+
+
+## **T2 B**
+
+Airlines: 
+
+* EUROWINGS
+* LUXAIR 
+* RYANAIR LTD
+* TRANSAVIA AIRLINES
+
+Please pass the lugagge belt area and go directly to the main arrival hall. Your driver will be waiting for you just outside the door with a sign of **"Investigator Meeting"**. If you don't see your driver,  find the cafeteria **EAT** and wait there for him/her.
+
+<img src = "https://restauracionnews.com/wp-content/uploads/2019/05/EAT-BARCELONA.jpg" width="100%">
+
+<img src = "T2 B.png" width="100%">
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+
+
+## **T2 C**
+
+Airlines: 
+
+* EASYJET AIRLINE
+
+Please pass the lugagge belt area and go directly to the main arrival hall. Your driver will be waiting for you just outside the door with a sign of **"Investigator Meeting"**. If you don't see your driver,  find the cafeteria **B by fresh and realy** and wait there for him/her.
+
+<img src = "http://www.aena.es/csee/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1445437479764&ssbinary=true" width="100%">
+
+<img src = "T2 C.png" width="100%">
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+If you can't find your driver you can contact Minerva: +34 607 924 994 </p>
+
+
+
